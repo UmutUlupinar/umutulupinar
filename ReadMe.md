@@ -24,7 +24,7 @@
 <p align="left">
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="c#" width="50" height="50"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/256px-Microsoft_.NET_logo.svg.png"> alt=".net" width="50" height="50"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/32px-Microsoft_.NET_logo.svg.png" alt=".net" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/sql-server_2772128" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="40" height="40"/> </a>
