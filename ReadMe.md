@@ -43,7 +43,7 @@
 <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://www.yazilimevi.com/images/virtuemart/product/reader.png" alt="rider" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png" alt="VS22" width="40" height="40"/> </a>
 <a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="40" height="40"/> </a>
-<a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="60" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Postman" width="60" height="40"/> </a>
 </p>
