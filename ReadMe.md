@@ -40,7 +40,7 @@
 ## 💻Tools
 
 <p align="left >
-<a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" alt="rider" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://www.yazilimevi.com/images/virtuemart/product/reader.png" alt="rider" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png" alt="VS22" width="40" height="40"/> </a>
 <a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="40" height="40"/> </a>
 <a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>
