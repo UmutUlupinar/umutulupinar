@@ -50,4 +50,5 @@
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="60" height="40"/> </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="Postman" width="60" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://zeevector.com/wp-content/uploads/Azure-Logo-PNG.png" alt="azure" width="50" height="50"/> </a>
+<a href="https://github.com/jaegertracing/jaeger-ui" target="_blank" rel="noreferrer"> <img src="https://www.jaegertracing.io/img/jaeger-logo.png" alt="azure" width="50" height="50"/> </a>
 </p>
