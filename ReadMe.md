@@ -3,7 +3,6 @@
 
 ### Hi there 👋, It's **Umut**
 
-.Net developer
 <hr/>
 
 ## 🌐Socials
