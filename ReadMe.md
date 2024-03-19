@@ -36,6 +36,7 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/179_angular.jpg" alt="angular" width="50" height="50"/> </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/v2/resize:fit:892/0*z8J5m1pG2W_Hf90t.png" alt="elastic_search" width="50" height="50"/> </a>
 <a href="https://specflow.org/" target="_blank" rel="noreferrer"> <img src="https://specflow.org/wp-content/uploads/2021/05/logo-png-1.png" alt="specflow_test" width="50" height="50"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> </a>
 </p>
 <hr/>
 
