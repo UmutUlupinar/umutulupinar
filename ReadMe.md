@@ -41,7 +41,6 @@
 <hr/>
 
 ## 💻Tools
-
 <p align="left >
 <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" alt="rider" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png" alt="VS22" width="40" height="40"/> </a>
