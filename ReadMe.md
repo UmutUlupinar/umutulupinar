@@ -6,14 +6,18 @@
 
 ## 🌐Socials
 
-[<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
-[<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
+[<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
 
+[<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
 
 [linkedin]: https://www.linkedin.com/in/mustafa-umut-ulupinar-b11796207/
+
 [stackoverflow]: https://stackoverflow.com/users/18692770/esprnzjk
+
 <br/>
+
 <br/>
+
 <hr/>
 
 ## 💻Tech Stack
@@ -52,12 +56,13 @@
 ## 📊GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**UmutUlupinar**&show_icons=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&hide_title=true&locale=en" alt="Umut Ulupinar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutUlupinar&show_icons=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&hide_title=true&locale=en" alt="Umut Ulupinar's GitHub Stats" />
 </p>
 
 ## 🔥Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**UmutUlupinar**&layout=compact&hide_title=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&locale=en" alt="Umut Ulupinar's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutUlupinar&layout=compact&hide_title=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&locale=en" alt="Umut Ulupinar's Most Used Languages" />
 </p>
+
 
