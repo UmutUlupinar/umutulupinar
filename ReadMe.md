@@ -53,16 +53,5 @@
 </p>
 <hr/>
 
-## 📊GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutUlupinar&show_icons=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&hide_title=true&locale=en" alt="Umut Ulupinar's GitHub Stats" />
-</p>
-
-## 🔥Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutUlupinar&layout=compact&hide_title=true&title_color=0c3866&icon_color=0c3866&text_color=0c3866&bg_color=ffffff&locale=en" alt="Umut Ulupinar's Most Used Languages" />
-</p>
 
 
