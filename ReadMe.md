@@ -52,6 +52,7 @@
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/> </a> <a href="https://github.com/jaegertracing/jaeger-ui" target="_blank" rel="noreferrer"> <img src="https://www.jaegertracing.io/img/jaeger-icon-color.png" alt="Jaeger" width="50" height="50"/> </a>
 </p>
 <hr/>
+![Dil İstatistikleri](https://vercel.app)
 
 
 
